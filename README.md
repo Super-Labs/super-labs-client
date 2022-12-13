@@ -1,16 +1,16 @@
 # superlabs
 
-A new Flutter project.
+A start-up project in the following fields:
+- Trading
+- Messenger using end-to-end encryption which doesn't make server as a listener.
+Other stuffs will be added here after implementing the first and second options.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for superlabs project
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+If you want to use this app as yours, you must use GPL3 license and distribute this project as an opensource project.
+It makes you guilty if you close the source and distribute it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
